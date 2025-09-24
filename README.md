@@ -1,4 +1,4 @@
-Visualizing Data with Power BI
+#**Visualizing Data with Power BI**
 This repository contains a collection of Power BI files (.pbix) showcasing various data visualization projects. The focus of these projects is to transform complex datasets into clear, actionable insights through interactive dashboards and reports.
 
 What's Inside
